@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="progettoGabban/progettoGabban/src"/>
+	<classpathentry kind="src" path="progettoGabban/progettoGabban/test"/>
+	<classpathentry kind="lib" path="progettoGabban/progettoGabban/gabban.jar"/>
+	<classpathentry kind="output" path="progettoGabban/progettoGabban/bin"/>
+</classpath>
